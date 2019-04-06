@@ -1,43 +1,39 @@
 self.__precacheManifest = [
   {
-    "revision": "b8bc951f31695b83a59b2799329b9ea5",
-    "url": "/QnA-site/static/media/space.b8bc951f.jpg"
+    "revision": "67483d73ea62bd64d3a557817fbbe654",
+    "url": "/QnA-site/static/media/geography.67483d73.jpg"
   },
   {
-    "revision": "34f484038ab099128602",
-    "url": "/QnA-site/static/css/main.5caee62a.chunk.css"
+    "revision": "0b7d9666d5d6c0895006",
+    "url": "/QnA-site/static/css/main.92f526c1.chunk.css"
   },
   {
     "revision": "7198e29ff70c93eacd2e",
     "url": "/QnA-site/static/js/runtime~main.16356b2b.js"
   },
   {
-    "revision": "953507ed0751e14e4236b51d69c7152e",
-    "url": "/QnA-site/static/media/user3.953507ed.jpg"
+    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
+    "url": "/QnA-site/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ad110701518fa06c9c95",
-    "url": "/QnA-site/static/js/2.48bfb8fc.chunk.js"
+    "revision": "7d635ed07ac9fb8bf9ed",
+    "url": "/QnA-site/static/js/2.05468a2c.chunk.js"
   },
   {
     "revision": "e679eba08464daab0bacbcd8f1632990",
     "url": "/QnA-site/static/media/loading.e679eba0.gif"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/QnA-site/static/media/logo.5d5d9eef.svg"
-  },
-  {
     "revision": "4c303152a88dbfc9cd5d8753ae5612f4",
     "url": "/QnA-site/static/media/animals.4c303152.jpg"
   },
   {
-    "revision": "34f484038ab099128602",
-    "url": "/QnA-site/static/js/main.b017eaa3.chunk.js"
+    "revision": "b8bc951f31695b83a59b2799329b9ea5",
+    "url": "/QnA-site/static/media/space.b8bc951f.jpg"
   },
   {
-    "revision": "67483d73ea62bd64d3a557817fbbe654",
-    "url": "/QnA-site/static/media/geography.67483d73.jpg"
+    "revision": "0b7d9666d5d6c0895006",
+    "url": "/QnA-site/static/js/main.f2ad6cc7.chunk.js"
   },
   {
     "revision": "de429aa0ad7ca2c9789c95582e713ec1",
@@ -60,11 +56,15 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/media/user2.b576b7ca.jpg"
   },
   {
-    "revision": "ad110701518fa06c9c95",
+    "revision": "953507ed0751e14e4236b51d69c7152e",
+    "url": "/QnA-site/static/media/user3.953507ed.jpg"
+  },
+  {
+    "revision": "7d635ed07ac9fb8bf9ed",
     "url": "/QnA-site/static/css/2.24082511.chunk.css"
   },
   {
-    "revision": "c9b6391eae40643e9bf6ee7943cb0800",
+    "revision": "445825825611d5430602ff45d4e97ad5",
     "url": "/QnA-site/index.html"
   }
 ];
