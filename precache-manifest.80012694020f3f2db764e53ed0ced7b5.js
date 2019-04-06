@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/media/space.b8bc951f.jpg"
   },
   {
-    "revision": "f0dbf98f7e269f005276",
-    "url": "/QnA-site/static/css/main.c1f1e176.chunk.css"
+    "revision": "34f484038ab099128602",
+    "url": "/QnA-site/static/css/main.5caee62a.chunk.css"
   },
   {
     "revision": "7198e29ff70c93eacd2e",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/media/animals.4c303152.jpg"
   },
   {
-    "revision": "f0dbf98f7e269f005276",
-    "url": "/QnA-site/static/js/main.36b7c2de.chunk.js"
+    "revision": "34f484038ab099128602",
+    "url": "/QnA-site/static/js/main.b017eaa3.chunk.js"
   },
   {
     "revision": "67483d73ea62bd64d3a557817fbbe654",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/css/2.24082511.chunk.css"
   },
   {
-    "revision": "011cb1cd5979e9c0ca4a9dc0f5651772",
+    "revision": "c9b6391eae40643e9bf6ee7943cb0800",
     "url": "/QnA-site/index.html"
   }
 ];
