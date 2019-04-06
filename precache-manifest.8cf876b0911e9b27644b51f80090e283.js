@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/media/geography.67483d73.jpg"
   },
   {
-    "revision": "0b7d9666d5d6c0895006",
+    "revision": "83c4e63e44eb4952885e",
     "url": "/QnA-site/static/css/main.92f526c1.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/media/space.b8bc951f.jpg"
   },
   {
-    "revision": "0b7d9666d5d6c0895006",
-    "url": "/QnA-site/static/js/main.f2ad6cc7.chunk.js"
+    "revision": "83c4e63e44eb4952885e",
+    "url": "/QnA-site/static/js/main.a8b805bb.chunk.js"
   },
   {
     "revision": "de429aa0ad7ca2c9789c95582e713ec1",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/QnA-site/static/css/2.24082511.chunk.css"
   },
   {
-    "revision": "445825825611d5430602ff45d4e97ad5",
+    "revision": "39d64255677cc44f7cd0d7a017794138",
     "url": "/QnA-site/index.html"
   }
 ];
