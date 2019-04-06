@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/whoami-shubham/QnA-site/precache-manifest.f6431920942068bf2420a41deb1d2824.js"
+  "/QnA-site/precache-manifest.adebd87933f3f8a13a311ab185d94499.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/whoami-shubham/QnA-site/index.html", {
+workbox.routing.registerNavigationRoute("/QnA-site/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
